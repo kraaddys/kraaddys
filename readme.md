@@ -33,3 +33,5 @@
 - Через e-mail: slavov.kostya.03@gmail.com
 - Telegram: [TG](https://t.me/kraaddys)
 - Instagram: [IG](instagram.com/kostya.slavov)
+
+![kraaddys' GitHub Stats:](https://github-readme-stats.vercel.app/api?username=kraaddys&count_private=true&show_icons=true "kraaddys stat")
