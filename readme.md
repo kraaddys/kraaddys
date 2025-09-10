@@ -1,29 +1,17 @@
-# Приветствие
+👋 Hi, my name is Kostya. I am a 22-year-old IT student from Chisinau, Republic of Moldova.
 
-👋 Привет, я Костя. Мне 21 год, студент Молдавского Государственного Университета на Факультете Математики и Информатики.
+## Interests
 
-## Мое фото
+- 🏎️ Auto & Motorsport 🏍️    
+- 🔭 Astronomy and everything related to space 🪐  
 
-![image](images/avatar.png)
+## Programming Languages by Level
 
-## Кратко о себе
-
-Сам по себе я застенчивый и добрый парень. Готов помочь в трудную минуту и поддержать 😄.  
-Я не особо люблю писать про себя такие слова, но, т.к. я сам по себе являюсь таким человеком, то мне приходится 😅.
-
-## Области интересов
-
-- 🏎️ авто-мотоспорт 🏍️  
-- 🎸 тренируюсь игре на гитаре  
-- 🔭 астрономия и, в целом, всё, что связано с космосом 🪐
-
-## Знания языков программирования по-уровню
-
-- 📈 **Выше среднего:** _Java_
-- ⚖️ **Средний уровень:** _C++_
-- 🧱 **Базовый уровень:** _JavaScript, PHP, Python_
-- 🛠️ Есть понятия в работе с:
-  - **HTML, CSS, JSON-форматом, Docker**
-  - базами данных: **Oracle Apex, msSQL, postgreSQL**
+- 📈 **Above Average:** _Java_  
+- ⚖️ **Intermediate:** _C++, C#_  
+- 🧱 **Basic Knowledge:** _JavaScript, PHP, Python_  
+- 🛠️ Familiar with:  
+  - **HTML, CSS, JSON format, Docker**  
+  - Databases: **Oracle Apex, msSQL, PostgreSQL, mySQL (basic)**
 
 ![kraaddys stat](https://github-readme-stats.vercel.app/api?username=kraaddys&count_private=true&show_icons=true "kraaddys stat")
