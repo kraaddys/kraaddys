@@ -7,11 +7,13 @@
 
 ## Programming Languages by Level
 
-- 📈 **Above Average:** _Java_  
-- ⚖️ **Intermediate:** _C++, C#_  
-- 🧱 **Basic Knowledge:** _JavaScript, PHP, Python_  
+- 📈 **Above Average:** _C#_  
+- ⚖️ **Intermediate:** _Java_  
+- 🧱 **Basic Knowledge:** _JavaScript, PHP, Python, C++_  
 - 🛠️ Familiar with:  
-  - **HTML, CSS, JSON format, Docker**  
-  - Databases: **Oracle Apex, msSQL, PostgreSQL, mySQL (basic)**
+  - **HTML, CSS, JSON format, Docker, AWS**  
+  - Databases: **Oracle Apex, msSQL, PostgreSQL**
 
 ![kraaddys stat](https://github-readme-stats.vercel.app/api?username=kraaddys&count_private=true&show_icons=true "kraaddys stat")
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kraaddys=kraaddys&theme=tokyonight)
