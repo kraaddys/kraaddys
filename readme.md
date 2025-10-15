@@ -11,7 +11,7 @@
 - ⚖️ **Intermediate:** _Java_  
 - 🧱 **Basic Knowledge:** _JavaScript, PHP, Python, C++_  
 - 🛠️ Familiar with:  
-  - **HTML, CSS, JSON format, Docker, AWS**  
+  - **HTML, CSS, Git, Docker, AWS**  
   - Databases: **Oracle Apex, msSQL, PostgreSQL**
 
 ![kraaddys stat](https://github-readme-stats.vercel.app/api?username=kraaddys&count_private=true&show_icons=true "kraaddys stat")
