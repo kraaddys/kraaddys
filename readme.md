@@ -16,4 +16,4 @@
 
 ![kraaddys stat](https://github-readme-stats.vercel.app/api?username=kraaddys&count_private=true&show_icons=true "kraaddys stat")
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kraaddys=kraaddys&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kraaddys&theme=tokyonight)
